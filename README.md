@@ -1,7 +1,6 @@
 # Benchmarking_of_sorting_algorithms
 
 
-
 An empirical study comparing the performance of four sorting algorithms across different input distributions. This project validates theoretical complexity analysis through systematic benchmarking and visualization.
 
 ## Overview
@@ -13,10 +12,10 @@ This project benchmarks Bubble Sort, Merge Sort, Quick Sort, and Timsort on rand
 ## Quick Start
 Note: First run may take longer depending on the machine. 
 ```bash
-git clone https://github.com/yourusername/sorting-algorithm-benchmark.git
+git clone https://github.com/Swnm1/Benchmarking_of_sorting_algorithms.git
 cd sorting-algorithm-benchmark
 python -m venv venv
-source venv/bin/activate  # Windows: venv\Scripts\activate
+Windows: venv\Scripts\activate
 pip install -r requirements.txt
 python main.py
 ```
